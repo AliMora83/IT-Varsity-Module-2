@@ -1,0 +1,9 @@
+Module 2 Javascript Demo Data
+
+Developer: Ramus Blok
+Category: Best Campus Cup Solution
+Institution: Learnosity
+
+UniWise is an app that summarises different university prospectuses for students. 
+Students or prospective students can simply enter their marks and start searching 
+for any course they would like to apply for at any supported institutions.
